@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 - 🧑‍🎓 I’m currently a 4th year Computer Science Student
 - 🔭 I’m currently working on our thesis
-- 🌱 I’m currently learning Unity for Augmented Reality Development
+- 🌱 I’m currently learning machine learning algorithms
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im a kpop fan
 ---
