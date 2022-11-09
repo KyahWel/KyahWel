@@ -3,15 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.facebook.com/williamcrshd02/" target="_blank">
-    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.linkedin.com/in/william-cris-hod-73810b1b7/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedln-blue?style=for-the-badge&logo=linkedln&logoColor=white" alt="Linkedln Badge"/>
   </a>
-  <a href="https://www.instagram.com/williamcrshd/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/williamcrshd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 
 <div id="profile-count" align="center">
