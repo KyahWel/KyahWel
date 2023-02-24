@@ -20,7 +20,6 @@
 - 🔭 I’m currently working on our thesis
 - 🌱 I’m currently learning machine learning algorithms
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im a kpop fan
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
