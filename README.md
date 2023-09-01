@@ -15,13 +15,6 @@
 
 ---
 
-### :man_technologist: About Me :
-- 🧑‍🎓 I’m currently a 4th year Computer Science Student
-- 🔭 I’m currently working on our thesis
-- 🌱 I’m currently learning machine learning algorithms
-- 😄 Pronouns: He/Him
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
